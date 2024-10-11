@@ -1,0 +1,66 @@
+[
+  {
+  "category": "men",
+  "name": "Nike Air",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678390952/ip1bphj4o1ejro2fp4oz.jpg",
+  "price": 500,
+  "total": 500,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "men",
+  "name": "B",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391207/bmabrqfuypy9qjjmalad.jpg",
+  "price": 1000,
+  "total": 1000,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "men",
+  "name": "men",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391374/ywj2ihxb8gzmt7lk2oz0.jpg",
+  "price": 2000,
+  "total": 2000,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "men",
+  "name": "C",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391491/h285w3lnpfebgzxsmwgt.jpg",
+  "price": 1500,
+  "total": 1500,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "women",
+  "name": "D",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391609/jdnxpuopwzasyj8cwrus.jpg",
+  "price": 2500,
+  "total": 2500,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "women",
+  "name": "men",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391725/zi7n4sqptnefpm2vknrd.jpg",
+  "price": 3000,
+  "total": 3000,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "women",
+  "name": "E",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391791/tumvz3uv2lvnpbmpobxp.jpg",
+  "price": 3500,
+  "total": 3500,
+  "qty": 1,
+  "size": 0
+},{
+  "category": "women",
+  "name": "F",
+  "imageName": "https://res.cloudinary.com/dvzwvedra/image/upload/v1678391832/wye07416uw1h6okllwum.jpg",
+  "price": 4000,
+  "total": 4000,
+  "qty": 1,
+  "size": 0
+}]
