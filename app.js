@@ -11,7 +11,7 @@ app.listen(4000, () => {
 
 
 mongoose
-  .connect(process.env.DB_URL ,{
+  .connect("mongodb+srv://haseebshabir31:rEK1OvUc61v4s35u@cluster0.mi75x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" ,{
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
