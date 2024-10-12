@@ -2,9 +2,12 @@ const express = require("express");
 const mongoose = require("mongoose");
 const nodemailer = require("nodemailer");
 const cloudinary=require("cloudinary")
+const cors = require('cors');
+
 require('dotenv').config()
 const app = express();
 app.use(express.json());
+app.use(cors());
 app.listen(4000, () => {
   console.log("Server is working continously");
 });
@@ -42,6 +45,10 @@ app.get("/getData",async(req,res)=>{
   let founded= await Product.find()
   // console.log(founded);
   res.json({founded})
+
+})
+app.get("/",async(req,res)=>{
+  res.send("Server working !")
 
 })
 app.get("/getCart",async(req,res)=>{
